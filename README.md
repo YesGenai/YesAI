@@ -13,6 +13,9 @@ Join the VRChat group: **YESAI.5180**
 ### 1_Poster.png
 ![Poster](images/1_Poster.png)
 
+### 2_ThumbnailBanner.png
+![Thumbnail banner](images/2_ThumbnailBanner.png)
+
 ### 3_Icon.png
 ![Icon](images/3_Icon.png)
 
