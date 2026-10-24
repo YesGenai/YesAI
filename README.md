@@ -7,7 +7,6 @@ to show support for generative AI.
 
 Join the VRChat group: **YESAI.5180**
 
-Inspired by the [NoToAIGeneratedContent gist](https://gist.github.com/Purpzie/8338fb6c3204bb2f926f0e04c9397eb1).
 
 ## Images
 
