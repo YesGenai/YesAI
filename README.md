@@ -16,6 +16,9 @@ Join the VRChat group: **YESAI.5180**
 ### 3_Icon.png
 ![Icon](images/3_Icon.png)
 
+### 5_MinimalThumbnailOverlay.png
+![Minimal thumbnail overlay](images/5_MinimalThumbnailOverlay.png)
+
 ## Usage
 
 - Download any image from the `images/` folder.
