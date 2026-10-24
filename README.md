@@ -1,6 +1,6 @@
 # YesAI
 
-**This world is better with AI on Generative AI.**
+**This world is better with AI.**
 
 These are public domain images that anyone can use, modify, or place in VRChat worlds
 to show support for generative AI.
